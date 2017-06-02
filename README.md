@@ -22,8 +22,9 @@ pod "SHDRMyPlan"
 
 ## Author
 
-Ren, Todd X. -ND, Todd.X.Ren.-ND@disney.com
+RainSets, renzh_123@126.com
 
 ## License
 
 SHDRMyPlan is available under the MIT license. See the LICENSE file for more info.
+# SHDRMyPlan
