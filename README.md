@@ -1,6 +1,6 @@
 # SHDRMyPlan
 
-[![CI Status](http://img.shields.io/travis/Ren, Todd X. -ND/SHDRMyPlan.svg?style=flat)](https://travis-ci.org/Ren, Todd X. -ND/SHDRMyPlan)
+[![CI Status](http://img.shields.io/travis/RainSets, RainSets/SHDRMyPlan.svg?style=flat)](https://travis-ci.org/RainSets/SHDRMyPlan)
 [![Version](https://img.shields.io/cocoapods/v/SHDRMyPlan.svg?style=flat)](http://cocoapods.org/pods/SHDRMyPlan)
 [![License](https://img.shields.io/cocoapods/l/SHDRMyPlan.svg?style=flat)](http://cocoapods.org/pods/SHDRMyPlan)
 [![Platform](https://img.shields.io/cocoapods/p/SHDRMyPlan.svg?style=flat)](http://cocoapods.org/pods/SHDRMyPlan)

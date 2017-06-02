@@ -1,0 +1,6 @@
+framework module SHDRMyPlan {
+  umbrella header "SHDRMyPlan-umbrella.h"
+
+  export *
+  module * { export * }
+}

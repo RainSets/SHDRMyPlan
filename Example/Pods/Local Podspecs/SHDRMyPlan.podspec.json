@@ -1,0 +1,22 @@
+{
+  "name": "SHDRMyPlan",
+  "version": "0.1.0",
+  "summary": "A short description of SHDRMyPlan.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Ren, Todd X. -ND/SHDRMyPlan",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ren, Todd X. -ND": "Todd.X.Ren.-ND@disney.com"
+  },
+  "source": {
+    "git": "https://github.com/Ren, Todd X. -ND/SHDRMyPlan.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SHDRMyPlan/Classes/**/*"
+}
